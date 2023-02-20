@@ -1,3 +1,3 @@
 # testGit
 
-new text inside git repository
+new text inside git repository!
